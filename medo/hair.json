@@ -1,4 +1,5 @@
-{
+[
+    {
         "img": "https://telegra.ph/file/85a1db31b68310f5db22f.jpg",
         "name": "ايتشيغو"
     },
@@ -38,7 +39,7 @@
         "img": "https://telegra.ph/file/a97afc2f0f2932c462cee.jpg",
         "name": "برولي"
     },
-{
+    {
         "img": "https://telegra.ph/file/3e4d7b556b35dc07d72fe.jpg",
         "name": "غوكو بلاك"
     },
@@ -78,7 +79,7 @@
         "img": "https://telegra.ph/file/5d1f3bb29a4f7f8735f03.jpg",
         "name": "اوراهارا"
     },
-{
+    {
         "img": "https://telegra.ph/file/0270cd721fbbb51576976.jpg",
         "name": "ايتاتشي"
     },
@@ -118,7 +119,7 @@
         "img": "https://telegra.ph/file/43bdfd23dfa5cf8ea406f.jpg",
         "name": "كينغ"
     },
-{
+    {
         "img": "https://telegra.ph/file/978a9f24e9b11a46f5fa7.jpg",
         "name": "كايدو"
     },
@@ -144,7 +145,7 @@
     },
     {
         "img": "https://telegra.ph/file/d0c4645c13d12e1c73b87.jpg",
-        "name": "اشيلاذ"
+        "name": "اشيلاد"
     },
     {
         "img": "https://telegra.ph/file/6816b5be8c61ff3d92639.jpg",
@@ -158,7 +159,7 @@
         "img": "https://telegra.ph/file/481fa03ec2e0da156c3fd.jpg",
         "name": "سوكونا"
     },
-{
+    {
         "img": "https://telegra.ph/file/7db2dc5721fd33af96675.jpg",
         "name": "توشيرو"
     },
@@ -198,7 +199,7 @@
         "img": "https://telegra.ph/file/d8121ef38c7a4150faee8.jpg",
         "name": "زانجتس"
     },
-{
+    {
         "img": "https://telegra.ph/file/e77b9886c31189efee0fc.jpg",
         "name": "استا"
     },
